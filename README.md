@@ -173,5 +173,6 @@ and parliamentary constituency.
 ![alt text](4-1.png)
 ![alt text](5-1.png)
 ![alt text](6-1.png)
-RESULT:
+
+## RESULT:
 The program for implementing image maps using HTML is executed successfully.
