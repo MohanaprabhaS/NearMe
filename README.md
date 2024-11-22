@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 20.11.2024
+## Date: 22.11.2024
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -41,11 +41,11 @@ map.html
 <center>
 <img src="map.png" usemap="#MyCity" height="610" width="1450">
 <map name="MyCity">
-<area shape="rect" coords="600,250,800,400" href="home.html" title="My Home Town">  
-<area shape="circle" coords="570,230,45" href="school.html" title="Shri bala vidhya mandhir school">  
-<area shape="circle" coords="640,200,30" href="temple.html" title="Arulmigu enthiran temple">  
-<area shape="circle" coords="200,250,100" href="area.html" title="Palaiyam">  
-<area shape="rect" coords="600,250,600,300" href="village.html" title="Mamandur">  
+<area target="" alt="Home Town" title="Home Town" href="home.html" coords="1017,286,1179,415" shape="rect">
+    <area target="" alt="school" title="school" href="school.html" coords="1174,670,108" shape="circle">
+    <area target="" alt="temple" title="temple" href="temple.html" coords="156,384,381,465,207,543" shape="poly">
+    <area target="" alt="village" title="village" href="village.html" coords="1654,294,155" shape="circle">
+    <area target="" alt="palaiyam" title="palaiyam" href="area.html" coords="536,303,688,385" shape="rect">
 </map>    
 </center>
 </body>
